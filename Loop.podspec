@@ -22,4 +22,6 @@ Handle repetitive action in loop on iOS easily. With a swifty syntax
 
   s.source_files  = "source", "Loop/*"
   s.exclude_files = "Classes/Exclude"
+
+  s.frameworks = "QuartzCore"
 end
