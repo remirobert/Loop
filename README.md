@@ -1,7 +1,7 @@
 # Loop
 Handle repetitive action in loop on iOS easily. With a **swifty** syntax.
 
-![img_0182]http://i.giphy.com/kbUq8z1MEYQ7u.gif()
+![img_0182](http://i.giphy.com/kbUq8z1MEYQ7u.gif)
 
 # Before Loop
 
